@@ -1,4 +1,4 @@
-# Skills para o grupo de estudos
+# Skills para estudos e recolocação
 
 Este diretório reúne três skills para apoiar estudos e busca de oportunidades profissionais:
 
